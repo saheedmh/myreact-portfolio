@@ -39,8 +39,7 @@ function About() {
         </article>
       </div>
 
-      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis voluptates possimus quo, est ea reprehenderit sed cumque animi dolorem harum quod cupiditate, laboriosam consequuntur esse ipsa, explicabo nemo et sunt!</p>
-    </div>
+      </div>
     </div>
     </section>
   )

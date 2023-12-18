@@ -1,6 +1,6 @@
 .container, .container__testimonial{
-    width:40%;
-    padding-bottom:4rem;
+    width:50%;
+    margin-bottom:4rem;
 }
 .clients__avatar{
       width: 4rem;
@@ -10,12 +10,15 @@
      border:0.4rem solid var(--color-primary-variant)
 
 }
-.testimonials{
+.swiper-testimonials{
 background:var(--color-bg-variant);
 text-align:center;
 border-radius:2rem;
 user-select:none;
-padding:2rem;  
+padding:2rem; 
+margin-bottom:2rem; 
+margin-right:auto;
+margin-left: auto;
 
 }
 .client__review{
@@ -27,7 +30,9 @@ padding:2rem;
 }
 
 .swiper-pagination-clickable .swiper-pagination-bullet{
-     background:var(--color-primary)
+     background:var(--color-primary);
+     margin-top:30px;
+     
 }
 
 @media screen and (max-width:1024px){

@@ -2,6 +2,9 @@
     display:grid;
     grid-template-columns: 1fr 1fr;
     gap:2rem;
+    margin:auto;
+    width:100vw;
+    
 }
 .experience__container > div{
     
@@ -25,6 +28,7 @@ cursor:default;
     display: grid;
     grid-template-columns: 1fr 1fr;
     row-gap: 2rem;
+    
 }
 .experience__details    {
     display: flex;

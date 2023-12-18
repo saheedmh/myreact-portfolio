@@ -10,7 +10,7 @@ function Header() {
       <div className="container header__container">
         <h5>Hello, I'm</h5>
         <h1>saheed harun</h1>
-        <h5 className='text-light'>Fullstack Developer</h5>
+        <h5 className='text-light'>FullStack Developer, i Created Web pages and web apps with interractive UI/UX interface. i have also built some project, which has helped me master my core language and libraries, and also freelanced for a moment. check out my CV for more clarity</h5>
         <Cta/>
         <HeaderSocial/>
   

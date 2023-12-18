@@ -63,27 +63,31 @@ function Services() {
  <ul className='service__list'>
   <li>
 <BiCheck className='service__list-icon'/>
-<p>HyperText Markup Language (HTML)</p>
+<p>Meet with  clients to discuss their website design and requirement</p>
   </li>
 
   <li>
 <BiCheck className='service__list-icon'/>
-<p>Cascade Style Sheet (CSS)   </p>
+<p>Create and Test apps for the website</p>
   </li>
  
   <li>
 <BiCheck className='service__list-icon'/>
-<p>Vanilla javacript</p>
+<p>Code for the site using HTML, CSS , JAVASCRIPT, REACT and others programming language</p>
   </li>
  
   <li>
 <BiCheck className='service__list-icon'/>
-<p>Jquery </p>
+<p>Engage with designer, such as graphic designer, to determine the site's layout</p>
   </li>
  
   <li>
 <BiCheck className='service__list-icon'/>
-<p>Bootstrap</p>
+<p>Integrate,audio, video, and graphics into the site</p>
+  </li>
+  <li>
+<BiCheck className='service__list-icon'/>
+<p>Quality-Test and troubleshoot the website and/or its application language, frameworks and technology</p>
   </li>
  
   <li>

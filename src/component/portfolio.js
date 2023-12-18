@@ -15,7 +15,7 @@ function portfolio() {
         id: 1,
         image:Img1,
         title:"Crypto Currency Dashboard and  Financial visualization",
-        gtihub:'https://github.com',
+        gtihub:'https://github.com/saheedmh',
         demo:'https:https://dribbble.com/shots/22760145-Jobsity-Characters',
     },
 
@@ -23,7 +23,7 @@ function portfolio() {
         id: 2,
         image:Img2,
         title:"charts tempelate & infographic in Figma",
-        gtihub:'https://github.com',
+        gtihub:'https://github.com/saheedmh',
         demo:'https://dribbble.com/shots/23210044-NVO-Trading-panel'
      },
 
@@ -31,14 +31,14 @@ function portfolio() {
         id: 3,
         image:Img3,
         title:"Figma dashboard UI kit for data design web app",
-        gtihub:'https://github.com',
+        gtihub:'https://github.com/saheedmh',
         demo:'https://dribbble.com/shots/23210044-NVO-Trading-panel'
      },
      {
         id: 4,
         image:Img4,
         title:"maintaining task and",
-        github:'https://github.com',
+        github:'https://github.com/saheedmh',
         demo:'https://dribbble.com/shots/23210044-NVO-Trading-panel'
      },
 
@@ -46,7 +46,7 @@ function portfolio() {
         id: 5,
         image:Img5,
         title:"Charts tempelate and infographic in figma",
-        github:'https://github.com',
+        github:'https://github.com/saheedmh',
         demo:'https://dribbble.com/shots/23210044-NVO-Trading-panel'
      }
 ,
@@ -54,7 +54,7 @@ function portfolio() {
     id: 6,
     image:Img6,
     title:"Crypto Currency Dashboard and  Financial visualization",
-    gtihub:'https://github.com',
+    gtihub:'https://github.com/saheedmh',
     demo:'https://dribbble.com/shots/23210044-NVO-Trading-panel'
  }
 

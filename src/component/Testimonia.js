@@ -56,13 +56,13 @@ function Testimonia() {
         {
           data.map(({avatar, name, review}, index) =>{
             return (
-              <SwiperSlide key={index} className='testimonials'>
+              <SwiperSlide key={index} className='swiper-testimonials'>
       <div className="clients__avatar">
         <img src={avatar} alt="" />
         </div>
       <h5 className='client__name'>{name}</h5>
       <small>{review}</small>
-        </SwiperSlide>
+        </SwiperSlide >
 
             )
           })
